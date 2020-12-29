@@ -1,1 +1,1 @@
-# Fault-Detection-in-Machines---Time-Series-
+# Fault-Detection-in-Machines-Time-Series
