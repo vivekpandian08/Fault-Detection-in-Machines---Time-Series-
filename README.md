@@ -1,8 +1,8 @@
 # FailureFaultDetection
-Failure and fault point detection for machines using time series
+Failure and fault point detection for machines using time series.
 
 ## Problem Statement:
-To develop an automated method to pinpoint the times of fault and failure in machines whose signal data is known
+To develop an automated method to pinpoint the times of fault and failure in machines whose signal data is known.
 
 ## Exploratory Data Analysis:
 The graph depicting all the signals of a machine for 3000 observations can not provide much information. So, I plotted 300 observations in one graph to analyze it better. All graphs can be seen in the jupyter notebook.
